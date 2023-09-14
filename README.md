@@ -10,7 +10,6 @@ This is a section of the Cyfrin Foundry Solidity Course.
 - [Getting Started](#getting-started)
   - [Requirements](#requirements)
   - [Quickstart](#quickstart)
-    - [Optional Gitpod](#optional-gitpod)
 - [Usage](#usage)
   - [Start a local node](#start-a-local-node)
   - [Library](#library)
@@ -40,12 +39,6 @@ git clone https://github.com/Cyfrin/foundry-smart-contract-lottery-f23
 cd foundry-smart-contract-lottery-f23
 forge build
 ```
-
-### Optional Gitpod
-
-If you can't or don't want to run and install locally, you can work with this repo in Gitpod. If you do this, you can skip the `clone this repo` part.
-
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#github.com/Cyfrin/foundry-smart-contract-lottery-f23)
 
 # Usage
 
